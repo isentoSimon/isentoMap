@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/isento.de\/"
+                 "value":"https:\/\/www.google.com\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
