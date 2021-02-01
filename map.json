@@ -150,7 +150,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openWebsiteOFF",
                  "type":"string",
                  "value":"https:\/\/www.google.com\/"
                 }, 
